@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rubysapphire",
+  "name": "Ruby + Sapphire",
+  "description": "A mod that adds a mine-able ore that drops Experience. Oh, it also adds Rubies and Sapphires.",
+  "version": "{1.0}",
+  "mcversion": "{1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["beeshroom"],
+  "credits": "Thanks to online tutorials/guides and support from friends and peers.",
+  "logoFile": "assets/rubysapphire/textures/rubysapphire.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

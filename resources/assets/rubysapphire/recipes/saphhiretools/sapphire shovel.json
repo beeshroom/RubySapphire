@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "rubysapphire:sapphire"
+        },
+    "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rubysapphire:sapphire_shovel",
+        "count": 1
+    }
+}

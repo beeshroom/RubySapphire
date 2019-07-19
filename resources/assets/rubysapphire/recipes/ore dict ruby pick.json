@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "type": "forge:ore_dict",
+		"ore": "gemRuby"
+        },
+	 "S":
+        {
+            "item": "minecraft:stick"
+        }
+
+    },
+    
+    "result":
+    {
+        "item": "rubysapphire:ruby_pickaxe",
+        "count": 1
+    }
+}
