@@ -28,8 +28,8 @@ public class ModItems {
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
 	//Materials
-	public static final ToolMaterial MATERIAL_RUBY = EnumHelper.addToolMaterial("material_ruby", 3, 720, 6.5F, 2.9F, 20);
-	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 3, 720, 6.5F, 2.9F, 19);
+	public static final ToolMaterial MATERIAL_RUBY = EnumHelper.addToolMaterial("material_ruby", 3, 720, 6.5F, 2.5F, 20);
+	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 3, 720, 6.5F, 2.5F, 19);
 	public static final ArmorMaterial ARMOR_MATERIAL_RUBY = EnumHelper.addArmorMaterial("armor_material_ruby", Reference.MOD_ID + ":ruby", 19, 
 			new int[] {3, 5, 7, 3}, 20, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.5f);
 	public static final ArmorMaterial ARMOR_MATERIAL_SAPPHIRE = EnumHelper.addArmorMaterial("armor_material_sapphire", Reference.MOD_ID + ":sapphire", 19, 

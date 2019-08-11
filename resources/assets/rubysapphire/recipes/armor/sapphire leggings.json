@@ -13,7 +13,8 @@
     {
         "R":
         {
-            "item": "rubysapphire:sapphire"
+               "type": "forge:ore_dict",
+		"ore": "gemSapphire"
         }
     },
     

@@ -7,7 +7,7 @@ item.sapphire.name=Sapphire
 //blocks
 tile.ruby_ore.name=Ruby Ore
 tile.sapphire_ore.name=Sapphire Ore
-tile.experience_ore.name=Experience Deposit
+tile.experience_ore.name=Experience Ore
 tile.ruby_block.name=Block of Ruby
 tile.sapphire_block.name=Block of Sapphire
 
@@ -22,6 +22,7 @@ item.sapphire_chestplate.name=Sapphire Chestplate
 item.sapphire_leggings.name=Sapphire Leggings
 item.sapphire_boots.name=Sapphire Boots
 
+//tools
 item.ruby_sword.name=Ruby Sword
 item.ruby_pickaxe.name=Ruby Pickaxe
 item.ruby_shovel.name=Ruby Shovel
@@ -34,6 +35,11 @@ item.sapphire_pickaxe.name=Sapphire Pickaxe
 item.sapphire_shovel.name=Sapphire Shovel
 item.sapphire_hoe.name=Sapphire Hoe
 item.sapphire_axe.name=Sapphire Axe
+
+
+//advancements
+advancements.rubysapphire.backtogether.title=Back Together
+advancements.rubysapphire.backtogether.description=...And we're stronger than iron~
 
 
 

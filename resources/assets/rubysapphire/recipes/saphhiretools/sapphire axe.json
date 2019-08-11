@@ -4,15 +4,16 @@
     "pattern":
     [
         "RR",
-        "SR",
-        "S "
+        "RS",
+        " S"
     ],
     
     "key":
     {
         "R":
         {
-            "item": "rubysapphire:sapphire"
+              "type": "forge:ore_dict",
+		"ore": "gemSapphire"
         },
     "S":
         {

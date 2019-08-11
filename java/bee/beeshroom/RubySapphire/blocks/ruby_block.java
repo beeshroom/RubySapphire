@@ -12,4 +12,5 @@ public class ruby_block extends BlockBase {
 		setResistance(29.0F);
 		setHarvestLevel("pickaxe", 0);
 	}
+	
 }

@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "rubysapphire:ruby"
+        },
+        "title": {
+            "translate": "advancements.rubysapphire.backtogether.title"
+        },
+        "description": {
+            "translate": "advancements.rubysapphire.backtogether.description"
+        }
+    },
+    "parent": "minecraft:story/iron_tools",
+    "rewards": {
+        "experience": 15
+        },
+    
+  
+        "criteria": {
+        "has_ruby": {
+           "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "rubysapphire:ruby"
+          }
+          ]
+          }
+        },
+        
+        "has_sapphire": {
+            "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "rubysapphire:sapphire"
+          }
+          ]
+        }
+        }
+        },
+    
+    "requirements": [
+     [
+       "has_ruby"
+    ],
+    [
+    "has_sapphire"
+    ]
+    ]
+      
+      
+    }
+    
+    
